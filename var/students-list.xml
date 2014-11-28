@@ -57,5 +57,12 @@
         <github>kbaranski</github>
         <group>KrZZIs3011Si</group>
     </student>
+	<student>
+	  <firstname>Wojciech</firstname>
+	  <lastname>Michalik</lastname>
+	  <email>informatyk.uek@gmail.com</email>
+	  <github>Soundic</github>
+	  <group>KrZZIs3011Io</group>
+	</student>
 
 </students>
